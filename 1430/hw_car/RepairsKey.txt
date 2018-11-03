@@ -1,0 +1,7 @@
+0 Car Fixed 
+1 Brake
+2 Windshield 
+3 Tires
+4 Engine
+5 Doors
+6 Transmission
